@@ -1,0 +1,3 @@
+include ':swipeTablibrary'
+include ':app'
+rootProject.name = "CustomTabSwipe"
